@@ -1,0 +1,1 @@
+./Debug/main.c.o ./Debug/morpion.c.o ./Debug/ORDI.c.o   
